@@ -1,0 +1,6 @@
+interface:
+  display_name: "副业体检仪"
+  short_description: "判断一个赚钱机会现在是否值得你投入"
+  default_prompt: "Use $side-hustle-checker to evaluate whether this opportunity is worth pursuing for me now."
+policy:
+  allow_implicit_invocation: true
